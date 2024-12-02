@@ -1,0 +1,15 @@
+# Python
+
+*.pyc
+*.pyo
+*.pyd
+**/__pycache__/
+
+
+# Dataset
+
+*.csv
+*.json
+*.parquet
+*.pickle
+*.pkl
